@@ -1,0 +1,1 @@
+CREATE DATABASE jwt_test;
