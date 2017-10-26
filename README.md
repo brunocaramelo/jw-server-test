@@ -14,7 +14,7 @@ EXECUTAR ANTES DA APLICAÇÃO CLIENTE
 	DB_PASSWORD=testes
 
 3 - Configurar HOST
-	- APP_URL=http://moving-test.local (No meu caso) SERA USADO NA OUTRA APLICAÇÃO
+	- APP_URL=http://jwt-server-test.local (No meu caso) SERA USADO NA OUTRA APLICAÇÃO
 
 4 - RODAR migrations e seeds
       - executar na raiz
