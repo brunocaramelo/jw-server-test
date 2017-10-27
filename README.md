@@ -3,7 +3,7 @@ PROCEDIMENTOS
 EXECUTAR ANTES DA APLICAÇÃO CLIENTE
 
 1- Criação do Database (Mysql)
-  - executar DUMP de storage/dumps/create_database.sql
+   executar DUMP de storage/dumps/create_database.sql
 
 2 - Alterar parametros no .env para o Banco
 	DB_CONNECTION=mysql
